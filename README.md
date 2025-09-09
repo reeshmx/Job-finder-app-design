@@ -6,11 +6,15 @@ A simple way to express my ability to do UI design in Figma for an application
 
 📸 Screenshots
 
-**Figma1**
+Screenshots
+- **Interface1**
 ![Interface1](Jobfinder1.png)
 
-**Figma2**
+- **Interface2**
 ![Interface2](Jobfinder2.png)
+
+
+
 
 
 
